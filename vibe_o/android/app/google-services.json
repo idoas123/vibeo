@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276371977995",
+    "firebase_url": "https://vibeo-f5e0f.firebaseio.com",
+    "project_id": "vibeo-f5e0f",
+    "storage_bucket": "vibeo-f5e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276371977995:android:5c0830fc70b4b493",
+        "android_client_info": {
+          "package_name": "com.thecloset.vibe_o"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276371977995-lji719aglfpdsf5rtshjs6u1squ3oovj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thecloset.vibe_o",
+            "certificate_hash": "0b77ab108a960287f90db544bf4d9c0382a746b4"
+          }
+        },
+        {
+          "client_id": "276371977995-eu4kfde15u60ta1oe3tlq8pehne3q2eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjclitbhnJuk5Wkcd2opZ3x3psfHfa10M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276371977995-eu4kfde15u60ta1oe3tlq8pehne3q2eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
